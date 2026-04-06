@@ -1,0 +1,4 @@
+﻿backup/
+dataset/Darknet.csv
+dataset/*.csv
+dataset/*.CSV
